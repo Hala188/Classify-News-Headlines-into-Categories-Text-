@@ -18,6 +18,11 @@ test_df = pd.read_parquet("test.parquet")
 print(train_df.head())
 
 ```
+`4 classes:
+0 World
+1 sports
+2 Business
+3 sci/tec`
 ### 2. Data Preprocessing:
 We clean the text by converting it to lowercase, removing non-alphanumeric characters, tokenizing, and removing stopwords.
 
