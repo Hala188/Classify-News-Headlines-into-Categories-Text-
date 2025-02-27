@@ -103,7 +103,9 @@ df_results = pd.DataFrame(results)
 print(df_results)
 ```
 
+### 5.result:
 
+![image](https://github.com/user-attachments/assets/0d574663-fd87-4be1-9587-186406a1ea1c)
 
 ### 6. Key Observations:
 
