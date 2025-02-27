@@ -102,16 +102,8 @@ for name, model in models.items():
 df_results = pd.DataFrame(results)
 print(df_results)
 ```
-### 5. Results:
 
-The table below summarizes the performance of the models:
 
-Model	                Accuracy	Precision	 Recall	   F1-score
-____________________________________________________________________
-Logistic Regression 	0.917368	0.917144	0.917368	0.917162
-Decision Tree	        0.450000  	0.746169	0.450000	0.432561
-KNN	                    0.894605	0.894320 	0.894605	0.894410
-Gradient Boosting	    0.835526	0.838717	0.835526	0.836380
 
 ### 6. Key Observations:
 
